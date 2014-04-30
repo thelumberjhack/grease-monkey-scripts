@@ -7,7 +7,7 @@
 // @include       http://linkedin.com/*
 // @include       http://*.linkedin.com/*
 // @version       1.0
-// @grant         none
+// @grant         GM_addStyle
 // ==/UserScript==
 
 GM_addStyle('#today-news-wrapper { display: none !important; }');
